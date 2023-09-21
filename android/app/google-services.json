@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "737128607355",
+    "project_id": "altrudonateappaneke",
+    "storage_bucket": "altrudonateappaneke.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737128607355:android:871746a6dcf8abd335bcde",
+        "android_client_info": {
+          "package_name": "com.altrudonationappaneke"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfRRoVlQV64eS0w0ZsNCseG-hC71KO-zQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
